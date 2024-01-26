@@ -6,6 +6,13 @@
 // @author       RED
 // @match        https://www.instagram.com/*
 // @grant        none
+// @license      GPL-3.0
+
+// @updateURL    https://raw.githubusercontent.com/LetsUpdate/NoInstaForYou/main/main.js
+// @downloadURL    https://raw.githubusercontent.com/LetsUpdate/NoInstaForYou/main/main.js
+// @supportURL   https://github.com/LetsUpdate/NoInstaForYou
+// @contributionURL    https://github.com/LetsUpdate/NoInstaForYou
+
 // @run-at       document-start
 // ==/UserScript==
 
