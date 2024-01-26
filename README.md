@@ -1,2 +1,4 @@
-# NoInstaForYou
-a tempermonkey strip what allways redirects instagram's "for you page" to "following only page"
+# No Insta ForYou
+Telepítési útmutató:
+1. Első lépésként telepítsd a böngésződbe a [Tampermonkey](https://www.tampermonkey.net/) kiegészítőt, amely lehetővé teszi a JavaScript alapú szkriptek futtatását a böngésződben.
+2. A szkript telepítéséhez [kattints ide](https://raw.githubusercontent.com/LetsUpdate/NoInstaForYou/main/NoInsta4U-user.js). Ezután a szkript automatikusan bekerül a Tampermonkey kiegészítőbe, és már el is kezdheted használni!
