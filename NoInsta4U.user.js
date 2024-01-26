@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Instagram redirect to following
-// @namespace    https://www.instagram.com/
+// @namespace    https://github.com/LetsUpdate/NoInstaForYou
 // @version      1.0
 // @description  Replace ?variant=home with ?variant=following in Instagram URLs
 // @author       RED
